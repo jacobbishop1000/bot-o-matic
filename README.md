@@ -1,3 +1,5 @@
+This project is made to show an understanding of OOP principles!
+
 #HOW TO RUN BOT-O-MAT
 This application was written in Java using the IntelliJ IDEA IDE. However, all the extra files created by the IDE aren't necessary.
 The only three files needed should be Bot.java, main.java, and Task.java
